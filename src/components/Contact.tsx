@@ -92,25 +92,18 @@ export default function ContactForm() {
 
       <div className="flex space-x-4 mt-6">
         <a 
-          href="https://linkedin.com/in/your-profile" 
+          href="https://www.linkedin.com/in/yousuf-shaikh-691b7b2a3/" 
           target="_blank" 
           className="text-blue-700 dark:text-blue-500 hover:text-blue-500 dark:hover:text-blue-300 text-2xl transition"
         >
           <FaLinkedin />
         </a>
         <a 
-          href="https://github.com/yourusername" 
+          href="https://github.com/ShaikhYousuf39" 
           target="_blank" 
           className="text-gray-700 dark:text-white hover:text-gray-500 dark:hover:text-gray-400 text-2xl transition"
         >
           <FaGithub />
-        </a>
-        <a 
-          href="https://twitter.com/yourprofile" 
-          target="_blank" 
-          className="text-blue-500 hover:text-blue-400 text-2xl transition"
-        >
-          <FaTwitter />
         </a>
       </div>
     </div>
